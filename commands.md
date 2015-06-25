@@ -10,13 +10,13 @@ Manager
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!afklimit | X | sets the maximum afk time |
-|!botname | (botname) | change the default bot name |
+|!afklimit | 30 | sets the maximum afk time |
+|!botname | (MusicBot) | change the default bot name |
 |!clearchat | |clears the chat |
 |!cycle | | toggle DJ cycle |
 |!cycletimer | X | set the maximum DJ cycle time for when cycleguard is enabled |
-|!language | (language) | specify the language you would like the bot to use |
-|!locktimer | X | set the maximum time the waitlist can be locked if lockguard is enabled |
+|!language | (English) | specify the language you would like the bot to use |
+|!locktimer | 20 | set the maximum time the waitlist can be locked if lockguard is enabled |
 |!logout | | logs out account bot is hosted on |
 |!refresh | | refreshes the browser of whoever runs the bot |
 |!usercmdcd | X | set the cooldown on commands by grey users |
